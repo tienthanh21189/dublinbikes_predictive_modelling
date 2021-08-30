@@ -1,0 +1,2 @@
+Random Forest model for each Bike Station were stored in the following link:
+https://drive.google.com/drive/folders/18tvuYzdNzt9a6y7k37imcQ5Rp-HtkEN3?usp=sharing
