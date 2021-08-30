@@ -1,4 +1,4 @@
-Since the total file size is quite large (more than 1 GB), please download from the following link:
+Since files are too large (more than 1 GB), please download from the following link:
 https://drive.google.com/drive/folders/15Ry1M0szMNiOJDjvhcwiXPstvTSvMFAL?usp=sharing
 
 Note that Dublinbikes datasets for this study include 3 files:
